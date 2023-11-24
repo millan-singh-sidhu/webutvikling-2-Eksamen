@@ -1,5 +1,6 @@
 # webutvikling-2-Eksamen
-Denne eksamen ble gjort i 2 året på høyskolen Kristiania 2022. 
+Denne eksamen ble gjort i 2 året på høyskolen Kristiania 2022.
+Dette var en karakter A besvarelse
 For å kjøre military så må mann skrive npm install i terminalen i military mappen.
 For å bruke Api med military koden så må du inn i militaryApi å skrive dotnet watch run i terminalen.
 
